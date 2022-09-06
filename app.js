@@ -29,7 +29,8 @@ function main() {
     console.log(
         '///// Ejercicio 1 /////\n',
         getCountryByIso3('ARG'),
-        '\n');
+        '\n',
+        'Ejercicio uno completado (supongamos)\n');
     console.log(
         '///// Ejercicio 2 /////\n',
         getCountryTranslatedName('ARG', 'ja'),

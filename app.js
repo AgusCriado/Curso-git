@@ -39,7 +39,8 @@ function main() {
     console.log(
         '///// Ejercicio 3 /////\n',
         getCountriesBySubregion('South America'),
-        '\n');
+        '\n',
+        'Ejercicio 3 completado (supongamos) \n');
 
 }
 

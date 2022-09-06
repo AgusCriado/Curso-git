@@ -34,7 +34,8 @@ function main() {
     console.log(
         '///// Ejercicio 2 /////\n',
         getCountryTranslatedName('ARG', 'ja'),
-        '\n');
+        '\n',
+        'Ejercicio 2 resuelto (supongamos)\n');
     console.log(
         '///// Ejercicio 3 /////\n',
         getCountriesBySubregion('South America'),
